@@ -1,0 +1,26 @@
+# Java
+**/target/
+*.class
+*.jar
+
+# Node
+**/node_modules/
+dist/
+build/
+
+# Eclipse / STS
+.project
+.classpath
+.settings/
+
+# IntelliJ
+.idea/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Environment
+.env
